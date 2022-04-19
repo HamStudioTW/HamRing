@@ -1,1 +1,1 @@
-# HamStick
+# HamRing

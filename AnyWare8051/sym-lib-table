@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name AnyWare8051-rescue)(type Legacy)(uri ${KIPRJMOD}/AnyWare8051-rescue.lib)(options "")(descr ""))
+  (lib (name AnyWhare8051-rescue)(type Legacy)(uri ${KIPRJMOD}/AnyWhare8051-rescue.lib)(options "")(descr ""))
+)

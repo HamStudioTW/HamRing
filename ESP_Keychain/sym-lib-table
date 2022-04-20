@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name ESP_Keychain-rescue)(type Legacy)(uri ${KIPRJMOD}/ESP_Keychain-rescue.lib)(options "")(descr ""))
+)
